@@ -1,5 +1,8 @@
 
 ### Tasks
+#### Prerequisistes:
+- Install Docker
+- Install Maven
 - [ ] Create first jenkins jobs
 
 ![image](https://user-images.githubusercontent.com/120269399/232205784-11d12844-8e80-4284-ba5d-646c7186d9df.png)
